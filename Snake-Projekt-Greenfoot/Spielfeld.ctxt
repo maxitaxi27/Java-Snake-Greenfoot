@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spielfeld
+comment0.text=\n\ Write\ a\ description\ of\ class\ Spielfeld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name1\ name2
+comment1.target=Spielfeld(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Spielfeld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ checkWin()
+numComments=5

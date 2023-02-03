@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GameText
+comment0.text=\n\ Write\ a\ description\ of\ class\ PlayerName\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GameText()
+comment2.params=_name
+comment2.target=GameText(java.lang.String)
+comment3.params=laenge
+comment3.target=void\ setScore(int)
+comment4.params=_name
+comment4.target=void\ collisionText(java.lang.String)
+comment5.params=_name
+comment5.target=void\ winnerText(java.lang.String)
+comment6.params=_a
+comment6.target=void\ showHighscoreText(java.lang.String)
+comment7.params=
+comment7.target=void\ Highscoreheader()
+comment8.params=
+comment8.target=void\ Highscoreheader2()
+comment9.params=
+comment9.target=void\ newHighscoreText()
+numComments=10
